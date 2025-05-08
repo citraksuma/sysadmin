@@ -6,7 +6,7 @@ $row = mysqli_fetch_assoc($result);
 
 ?>
 <div class="container">
-	<h2 style=" width: 100%; border-bottom: 4px solid #ff8680"><b>Detail produk</b></h2>
+	<h2 style=" width: 100%; border-bottom: 4px solid #742322"><b>Detail produk</b></h2>
 
 	<div class="row">
 		<div class="col-md-4">

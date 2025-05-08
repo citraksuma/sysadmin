@@ -9,7 +9,7 @@ if(isset($_SESSION['kd_cs'])){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Rapi-Cake Backery</title>
+	<title> Citra Cake Backery</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
@@ -23,17 +23,17 @@ if(isset($_SESSION['kd_cs'])){
 		<div class="row top">
 			<center>
 				<div class="col-md-4" style="padding: 3px;">
-					<span> <i class="glyphicon glyphicon-earphone"></i> +6287804616097</span>
+					<span> <i class="glyphicon glyphicon-earphone"></i> +6285733190092</span>
 				</div>
 
 
 				<div class="col-md-4"  style="padding: 3px;">
-					<span><i class="glyphicon glyphicon-envelope"></i> rapi-cakebakery@gmail.com</span>
+					<span><i class="glyphicon glyphicon-envelope"></i> citrakusuma033@gmail.com</span>
 				</div>
 
 
 				<div class="col-md-4"  style="padding: 3px;">
-					<span>rapi-cake bakery Indonesia</span>
+					<span>citra-cake bakery Blitar</span>
 				</div>
 			</center>
 		</div>
@@ -49,7 +49,7 @@ if(isset($_SESSION['kd_cs'])){
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#" style="color: #ff8680"><b>RAPI-CAKE BAKERY</b></a>
+				<a class="navbar-brand" href="#" style="color: #742322"><b>CITRA-CAKE BAKERY</b></a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
